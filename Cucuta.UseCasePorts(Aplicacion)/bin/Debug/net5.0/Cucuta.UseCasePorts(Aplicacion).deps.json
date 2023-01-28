@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cucuta.UseCasePorts(Aplicacion)/1.0.0": {
+        "dependencies": {
+          "Cucuta.DTOs": "1.0.0"
+        },
+        "runtime": {
+          "Cucuta.UseCasePorts(Aplicacion).dll": {}
+        }
+      },
+      "Cucuta.DTOs/1.0.0": {
+        "runtime": {
+          "Cucuta.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cucuta.UseCasePorts(Aplicacion)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cucuta.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

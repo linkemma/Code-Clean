@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AulbjoDQ8r75oR8vAI+AISQ/cwIWGssaRyGSQ1sM2pV6LXAe966IB2b1EJ25/mnz1e7vyYbvebv3Hhal0y9ylw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AMILCAR\\source\\repos\\CleanCode\\Cucuta.Presentador\\Cucuta.Presentador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMILCAR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

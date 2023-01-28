@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Cucuta.UseCasePorts_Aplicacion_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cucuta.DTOs\Cucuta.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>

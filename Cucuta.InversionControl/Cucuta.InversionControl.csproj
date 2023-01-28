@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CL.RepositoryEFCore\CL.RepositoryEFCore.csproj" />
+    <ProjectReference Include="..\Cucuta.Presentador\Cucuta.Presentador.csproj" />
+    <ProjectReference Include="..\Cucuta.UseCases(Aplicacion)\Cucuta.UseCases(Aplicacion).csproj" />
+  </ItemGroup>
+
+</Project>
